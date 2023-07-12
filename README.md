@@ -26,5 +26,6 @@
 
 ## 🛠️ Skills 
 
-![Top Langs]| <a href="https://github.com/yurimn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yurimn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yurim's github stats" /></a> | <a href="https://github.com/yurimn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimn&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
