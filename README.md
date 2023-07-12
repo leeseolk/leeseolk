@@ -25,7 +25,4 @@
 </p>
 
 ## 🛠️ Skills 
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
